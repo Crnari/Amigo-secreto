@@ -9,12 +9,6 @@ Permite **agregar nombres** a una lista, **validarlos** y **sortear** un partici
   <img src="assets/AmigoSecreto.gif" alt="Demo del juego Amigo Secreto" width="560">
 </p>
 
-## 📸 Vista previa
-
-<p align="center">
-  <img src="assets/amigo-secreto.png" alt="Vista previa del juego" width="560">
-</p>
-
 ## 🚀 Características
 
 - Agregar nombres desde un input con validación (evita vacíos y solo espacios).
@@ -28,17 +22,6 @@ Permite **agregar nombres** a una lista, **validarlos** y **sortear** un partici
 - **HTML5** — estructura.
 - **CSS3** — estilos y layout.
 - **JavaScript (ES6)** — lógica de la aplicación y manipulación del DOM.
-
-## 📂 Estructura del proyecto
-
-📁 amigo-secreto/
-│── 📄 index.html # Estructura principal del juego
-│── 📄 style.css # Estilos del juego
-│── 📄 app.js # Lógica para agregar, listar y sortear
-│── 📁 assets/ # Imágenes y recursos (incluye AmigoSecreto.gif)
-│ ├── amigo-secreto.png
-│ └── AmigoSecreto.gif
-│── 📄 README.md # Este archivo
 
 🧾 Licencia
 
